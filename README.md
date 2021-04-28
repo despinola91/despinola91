@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Desarrollo Backend con Python y Django
 
-👶💻 Básico
-⏳ Curso de Introducción a la Terminal y Línea de Comandos
+👶💻 Básico\n
+⏳ Curso de Introducción a la Terminal y Línea de Comandos\n
 ✅ Curso Profesional de Git y GitHub
 ✅ Curso Básico de Python
 ✅ Curso de Introducción al Pensamiento Computacional con Python
