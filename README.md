@@ -11,10 +11,10 @@ At the moment I am doing a serie of courses to educate myself:
 ## Backend Development with Python and Django
 
 ### 👶💻 Basic  
-⏳ Introduction to the Terminal and Command Line
+⏳ Introduction to the Terminal and Command Line  
 ✅ Professional course of Git and GitHub  
 ✅ Basic Python  
-✅ Introduction to Computational Thinking with Python
+✅ Introduction to Computational Thinking with Python  
 ✅ Intermediate Python  
 ✅ OOP and Algorithms with Python  
 ✅ Object-Oriented Programming: OOP  
@@ -23,7 +23,7 @@ At the moment I am doing a serie of courses to educate myself:
   
 ### 👨‍💻 Intermediated  
 ⏳ SQL and MySQL  
-⏳ Practical course of Python: Developing a CRUD
+⏳ Practical course of Python: Developing a CRUD  
 ⏳ Flask course  
   
 ### 🧓💻 Advanced  
