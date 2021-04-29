@@ -6,6 +6,8 @@ I'm Dario Espinola, developer who loves bots 🤖, rockets 🚀 and finding bugs
 - 📫 How to reach me: despinola91@gmail.com or you can send me a message attached to a pigeon 🐦.
 - ⚡ Fun fact: I was in the same room with the Space Shuttle Endeavour, isn't that really cool? 👾
 
+
+
 At the moment I am doing a serie of courses to educate myself:
 
 ## Backend Development with Python and Django
