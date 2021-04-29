@@ -1,29 +1,31 @@
-### Hi there! 👋
+## Hi there! 👋
 
+I'm Dario Espinola, developer who loves bots 🤖, rockets 🚀 and finding bugs 🐛 just like Sherlock Holmes solves mysteries 🔍.
 
+- 🌱 I’m currently learning Python and lots of thing related to Data Science.
+- 📫 How to reach me: despinola91@gmail.com or you can send me a message attached to a pigeon 🐦.
+- ⚡ Fun fact: I was in the same room with the Space Shuttle Endeavour 👾
 
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: despinola91@gmail.com
-- ⚡ Fun fact: ...
+At the moment I am doing a serie of courses to educate myself:
 
-## Desarrollo Backend con Python y Django
+## Backend Development with Python and Django
 
-### 👶💻 Básico  
-⏳ Curso de Introducción a la Terminal y Línea de Comandos  
-✅ Curso Profesional de Git y GitHub  
-✅ Curso Básico de Python  
-✅ Curso de Introducción al Pensamiento Computacional con Python  
-✅ Curso de Python Intermedio  
-✅ Curso de POO y Algoritmos con Python  
-✅ Curso de Programación Orientada a Objetos: POO  
-✅ Curso de Fundamentos de Bases de Datos  
-✅ Curso de Introducción a Selenium con Python  
+### 👶💻 Basic  
+⏳ Introduction to the Terminal and Command Line
+✅ Professional course of Git and GitHub  
+✅ Basic Python  
+✅ Introduction to Computational Thinking with Python
+✅ Intermediate Python  
+✅ OOP and Algorithms with Python  
+✅ Object-Oriented Programming: OOP  
+✅ Database Fundamentals  
+✅ Introduction to Selenium with Python  
   
-### 👨‍💻 Intermedio  
-⏳ Curso de SQL y MySQL  
-⏳ Curso Práctico de Python: Creación de un CRUD  
-⏳ Curso de Flask  
+### 👨‍💻 Intermediated  
+⏳ SQL and MySQL  
+⏳ Practical course of Python: Developing a CRUD
+⏳ Flask course  
   
-### 🧓💻 Avanzado  
-⏳ Curso de Django  
-⏳ Curso Avanzado de Django  
+### 🧓💻 Advanced  
+⏳ Django course  
+⏳ Advanced course of Django  
