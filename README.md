@@ -14,7 +14,7 @@ At the moment I am doing a serie of courses to educate myself:
 ## Backend Development with Python and Django
 
 ### 👶💻 Basic  
-⏳ Introduction to the Terminal and Command Line  
+✅ Introduction to the Terminal and Command Line  
 ✅ Professional course of Git and GitHub  
 ✅ [Basic Python  ](https://github.com/despinola91/curso_basico_python)  
 ✅ [Introduction to Computational Thinking with Python  ](https://github.com/despinola91/intro_pensamiento_computacional_python)  
