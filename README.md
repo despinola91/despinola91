@@ -25,7 +25,7 @@ At the moment I am doing a serie of courses to educate myself:
 ✅ [Introduction to Selenium with Python  ](https://github.com/despinola91/curso_selenium_python)  
   
 ### 👨‍💻 Intermediated  
-⏳ SQL and MySQL  
+✅ SQL and MySQL  
 ⏳ Practical course of Python: Developing a CRUD  
 ⏳ Flask course  
   
