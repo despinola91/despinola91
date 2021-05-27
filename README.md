@@ -26,7 +26,7 @@ At the moment I am doing a serie of courses to educate myself:
   
 ### 👨‍💻 Intermediated  
 ✅ SQL and MySQL  
-⏳ [Practical course of Python: Developing a CRUD  ](https://github.com/despinola91/curso_python_crud)  
+✅ [Practical course of Python: Developing a CRUD  ](https://github.com/despinola91/curso_python_crud)  
 ⏳ Flask course  
   
 ### 🧓💻 Advanced  
